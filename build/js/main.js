@@ -3,7 +3,8 @@ $(document).ready(function () {
         doneTimeline = anime.timeline();
     var trigger = true;
 
-    $('form .btn').click(function () {
+    $('form .btn').click(function (e) {
+        e.preventDefault();
         if ($(this).hasClass('first')) {
             trigger = false;
             $(this).removeClass('first').addClass('active');
