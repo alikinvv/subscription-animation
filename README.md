@@ -7,3 +7,5 @@
 ## [Live Demo](https://alikinvv.github.io/subscription-animation/build/)
 
 ![subscription animation](https://cdn.dribbble.com/users/1773016/screenshots/5750060/5.gif)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/subscription-animation)](https://github.com/alikinvv/subscription-animation)
